@@ -45,5 +45,5 @@ Welcome to the **30 Projects in 30 Days** repository! 🎉 This collection showc
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/30-projects-in-30-days.git
-   cd 30-projects-in-30-days
+   git clone https://github.com/Dharmik-Solanki-G/30-days-30-mini-projects.git
+   cd 30-days-30-mini-projects
